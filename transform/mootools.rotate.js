@@ -6,7 +6,7 @@
  *     obj.rotate();
  *  });
  * HTML&CSS
- * <div style="transform:rotate(45deg);border-bottom:1px solid #ddd;" data-rotate="45"></div>
+ * <div style="transform:rotate(45deg);border-bottom:1px solid #ddd;width:200px;" data-rotate="45"></div>
  * 
  * Author: Kathy
  */
